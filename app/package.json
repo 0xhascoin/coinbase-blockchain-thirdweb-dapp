@@ -15,8 +15,10 @@
     "@next/font": "13.1.2",
     "@sanity/client": "^4.0.1",
     "@sanity/image-url": "^1.0.1",
+    "chart.js": "^4.2.0",
     "next": "13.1.2",
     "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.7.1",
     "styled-components": "^5.3.6"
